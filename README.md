@@ -1,6 +1,6 @@
 # About this Repository
 
-Learning Flutter
+Learning Flutter : Basic Hello World App
 
 ## Getting Started
 
